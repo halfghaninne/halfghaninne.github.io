@@ -1,0 +1,22 @@
+---
+title:  "Homework Prompts:"
+---
+
+What is "software development" as you understand it so far? What are the moving parts? Are those always the moving parts? Are they always called the same thing?
+
+As I see it developing a software breaks down into these parts:
+
+Logic/Planning
+Back-end code-writing + Documenting
+Testing
+De-bugging
+Front-end code-writing/Formatting
+
+These might not always be the responsibilities of each programmer; they might split up these tasks. 
+
+
+
+
+Discuss at least one reason why working in a pair was valuable. 
+
+Working in a pair was nice in that it kept me from getting bogged down. It was helpful to have another pair of eyes to remind me what might go where - SRP is a hard concept for me to understand. 
