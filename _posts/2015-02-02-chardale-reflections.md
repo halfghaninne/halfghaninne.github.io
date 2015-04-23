@@ -1,3 +1,0 @@
----
-title:  "Reflections for Chardale:"
----
