@@ -8,8 +8,12 @@
   width: 100%;
 }
 
-.projects {
+.padding {
   margin-top: 58px;
+  display: block;
+}
+.projects {
+  display: block;
 }
 
 .projects--project {
