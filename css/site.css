@@ -4,6 +4,7 @@
 
 .nav_menu {
   border-bottom: 2px solid black;
+  position: fixed;
 }
 
 .projects {
@@ -12,5 +13,6 @@
 
 .projects--project {
   border: 1px solid black;
+  margin-top: 50px;
 }
 
