@@ -1,3 +1,16 @@
 .grid_vis {
-  display: block;
+  display: none;
 }
+
+.nav_menu {
+  border-bottom: 2px solid black;
+}
+
+.projects {
+  
+}
+
+.projects--project {
+  border: 1px solid black;
+}
+
