@@ -3,8 +3,10 @@
 }
 
 .nav_menu {
+  width: 100%;
   border-bottom: 2px solid black;
   position: fixed;
+
 }
 
 .projects {
